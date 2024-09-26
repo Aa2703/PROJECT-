@@ -29,4 +29,4 @@ The MNIST dataset contains 60,000 training images and 10,000 testing images of h
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digit-recognition.git
+   git clone https://github.com/Aa2703/PROJECT-/digit-recognition.git
