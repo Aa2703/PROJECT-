@@ -1,4 +1,3 @@
-# PROJECT-1
 # Digit Recognition using Convolutional Neural Networks (CNN)
 
 ## Overview
